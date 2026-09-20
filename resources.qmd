@@ -117,7 +117,7 @@ Rodrígue-Sánchez](https://frodriguezsanchez.net/)
 fig-align="left"}
 
 ::: resource-text
-[Website history](website_hist.rmd)
+[Website history](website_hist.qmd)
 :::
 ::::
 
