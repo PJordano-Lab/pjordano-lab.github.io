@@ -7,15 +7,18 @@ hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py sk
 
 ## A bit of history
 
-The history of `ebd.csic.es` is deeply intertwined with the birth of the Spanish
-internet itself, and the dates are remarkably precise. The `.es` country-code
-top-level domain was established by IANA on **February 14, 1988**, and
-immediately delegated to *Centro de Comunicaciones CSIC-RedIRIS* (ES-NIC). This
-makes the `.es` domain one of the earliest European ccTLDs, and crucially,
-[**CSIC**](www.csic.es) **was its very first manager** — meaning `csic.es` and
-its subdomains like `ebd.csic.es` were effectively native to the system from day
-one. By late 1988 I was already somehow familiar with html and started designing
-a website using Mosaic (and later Netscape).
+The history of `ebd.csic.es` domain is deeply intertwined with the birth of the
+Spanish internet itself, and the dates are remarkably precise. The `.es`
+country-code top-level domain was established by [IANA](https://www.iana.org/)
+on **February 14, 1988**, and immediately delegated to *Centro de Comunicaciones
+CSIC-RedIRIS* (ES-NIC). This makes the `.es` domain one of the earliest European
+ccTLDs, and crucially, [**CSIC**](www.csic.es) **was its very first manager** —
+meaning `csic.es` and its subdomains like `ebd.csic.es` were effectively native
+to the system from day one. By late 1988 I was already somehow familiar with
+html and started designing a website using
+[Mosaic](https://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/)
+(and later [Netscape
+Communications](https://en.wikipedia.org/wiki/Netscape_(web_browser))).
 
 Although `.es` was created in 1988, actual domain registrations came slowly. The
 very first registration was `nic.es` in **1990**, created by RedIRIS itself. The
@@ -29,10 +32,10 @@ registrations, likely **1990–1991**.
 
 The hostname `ebd10.ebd.csic.es` follows the classic early-1990s convention of
 naming machines sequentially within an institution's subdomain. In this scheme
-`ebd.csic.es` was EBD's institutional zone, and `ebd10` was a specific physical
-machine (actually a small Apple Mac IIci) that I used to serve as the first
-web/FTP server. That was an ubiquitous naming pattern in RedIRIS-connected
-institutions between **1990 and 1995**.
+`ebd.csic.es` was [EBD's](https://www.ebd.csic.es) institutional zone, and
+`ebd10` was a specific physical machine (actually a small Apple Mac IIci) that I
+used to serve as the first web/FTP server. That was an ubiquitous naming pattern
+in RedIRIS-connected institutions between **1990 and 1995**.
 
 This is a brief summary table of the temporal progression:
 
