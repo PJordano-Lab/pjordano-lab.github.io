@@ -9,8 +9,9 @@ $line-height-base: 1.75;
 // Colors (light mode — Bootstrap compile-time)
 $body-bg:           #f8f7f4;
 $body-color:        #202227;
-$link-color:        #2563eb;
-$link-hover-color:  #1d4ed8;
+// Prose links: red tone in both modes (see --link-color / dark-mode block).
+$link-color:        #c1121f;
+$link-hover-color:  #8f0d17;
 $link-decoration:   none;
 $link-hover-decoration: underline;
 
@@ -24,7 +25,10 @@ $border-radius:    0.5rem;
 $border-radius-lg: 0.875rem;
 
 // Code
-$code-bg:    #bcbcbc;
+// #bcbcbc (the old value) was a mid-tone grey that Bootstrap emits as
+// `code:not(.sourceCode){background-color:...}` and that survived into dark
+// mode, leaving salmon text on grey at 1.5:1. Warm off-white instead.
+$code-bg:    #f7eeee;
 $code-color: #c1121f;
 
 /*-- scss:rules --*/
@@ -63,9 +67,9 @@ $code-color: #c1121f;
 
   --body-bg:            var(--color-bg);
   --body-color:         var(--color-text);
-  --link-color:         var(--color-accent-bright);
+  --link-color:         #c1121f;
   --link-decoration:    none;
-  --link-hover-color:   #1d4ed8;
+  --link-hover-color:   #8f0d17;
   --link-hover-decoration: underline;
   --border-radius:      var(--radius);
   --border-radius-lg:   var(--radius-lg);
@@ -563,14 +567,15 @@ pre {
   box-shadow: var(--shadow);
 }
 code {
-  background: #f1f5f9;
+  background: #f7eeee;
+  border: 1px solid rgba(193, 18, 31, 0.18);
   padding: 0.2rem 0.4rem;
   border-radius: 0.25rem;
   font-size: 0.875em;
   color: #c1121f;
   font-family: var(--font-mono);
 }
-pre code { background: transparent; padding: 0; color: #e2e8f0; font-size: 0.875rem; }
+pre code { background: transparent; border: none; padding: 0; color: #e2e8f0; font-size: 0.875rem; }
 
 /* ============================================================
    Tables
@@ -717,8 +722,10 @@ main.content > section:last-child > hr:last-child {
   --bs-table-striped-color:   #e6edf3;
   --bs-form-control-bg:       #161b22;
   --bs-form-control-color:    #e6edf3;
-  --bs-link-color:            #60a5fa;
-  --bs-link-hover-color:      #93c5fd;
+  --link-color:               #ff7b72;
+  --link-hover-color:         #ffa198;
+  --bs-link-color:            #ff7b72;
+  --bs-link-hover-color:      #ffa198;
   --bs-card-bg:               #161b22;
   --bs-card-border-color:     #30363d;
   --bs-dropdown-bg:           #161b22;
@@ -803,7 +810,18 @@ main.content > section:last-child > hr:last-child {
 [data-theme="dark"] .btn-outline-custom { color: #60a5fa !important; border-color: #4a7fc1; }
 [data-theme="dark"] .btn-outline-custom:hover { background: rgba(74,127,193,0.15); }
 
-[data-theme="dark"] code { background: #161b22; color: #f87171; }
+/* Inline code chips. The selectors mirror Bootstrap's own
+   `code:not(.sourceCode), li code:not(.sourceCode), td code:not(.sourceCode)`
+   so the dark values win on specificity rather than on source order. */
+[data-theme="dark"] code,
+[data-theme="dark"] code:not(.sourceCode),
+[data-theme="dark"] li code:not(.sourceCode),
+[data-theme="dark"] td code:not(.sourceCode) {
+  background: #1c1517;
+  border-color: rgba(255, 123, 114, 0.22);
+  color: #ff7b72;
+}
+[data-theme="dark"] pre code { background: transparent; border: none; }
 [data-theme="dark"] pre { background: #0d1117; }
 [data-theme="dark"] blockquote { background: #161b22; border-left-color: #4a7fc1; color: #8b949e; }
 
