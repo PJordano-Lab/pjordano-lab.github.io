@@ -113,11 +113,12 @@ Rodrígue-Sánchez](https://frodriguezsanchez.net/)
 ::::
 
 :::: resource-row
-![](static/images/resources__files__stacks-image-443f3ed-214x148.jpg){fig-alt="PGP Pedro's public keys"}
+![](static/images/website_hist/2001.png){fig-alt="PGP Pedro's public keys"
+fig-align="left"}
 
 ::: resource-text
-[PGP](https://pgp.mit.edu/)\
-[Pedro's public
-keys](https://pgp.mit.edu/pks/lookup?search=Pedro+Jordano&op=index)
+[Website history](website_hist.rmd)
 :::
 ::::
+
+--------------------------------------------------------------------------------

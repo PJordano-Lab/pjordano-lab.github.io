@@ -1,0 +1,135 @@
+---
+title: "'Website history'"
+description: "History of the web pages since 1989."
+title-block-banner: "#1a1c20"
+hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py skips this file
+---
+
+## A bit of history
+
+The history of `ebd.csic.es` is deeply intertwined with the birth of the Spanish
+internet itself, and the dates are remarkably precise. The `.es` country-code
+top-level domain was established by IANA on **February 14, 1988**, and
+immediately delegated to *Centro de Comunicaciones CSIC-RedIRIS* (ES-NIC). This
+makes the `.es` domain one of the earliest European ccTLDs, and crucially,
+[**CSIC**](www.csic.es) **was its very first manager** — meaning `csic.es` and
+its subdomains like `ebd.csic.es` were effectively native to the system from day
+one. By late 1988 I was already somehow familiar with html and started designing
+a website using Mosaic (and later Netscape).
+
+Although `.es` was created in 1988, actual domain registrations came slowly. The
+very first registration was `nic.es` in **1990**, created by RedIRIS itself. The
+first external institution still active today is `iac.es` (Instituto de
+Astrofísica de Canarias), registered in **1991**. During this period
+registrations were free of charge, assigned on a first-come-first-served basis,
+and exclusively for academic and research institutions. Since CSIC was the
+administrative body running ES-NIC, `csic.es` and all its institute subdomains —
+including `ebd.csic.es` — were almost certainly among the very earliest
+registrations, likely **1990–1991**.
+
+The hostname `ebd10.ebd.csic.es` follows the classic early-1990s convention of
+naming machines sequentially within an institution's subdomain. In this scheme
+`ebd.csic.es` was EBD's institutional zone, and `ebd10` was a specific physical
+machine (actually a small Apple Mac IIci) that I used to serve as the first
+web/FTP server. That was an ubiquitous naming pattern in RedIRIS-connected
+institutions between **1990 and 1995**.
+
+This is a brief summary table of the temporal progression:
+
+| Year | Event |
+|:---------------------------------------|:---------------------------------------|
+| Feb 1988 | `.es` ccTLD created; delegated to CSIC/RedIRIS |
+| mid-late 1988 | I started developing the website and started serving the site by March 1989 (still no TCP/IP) |
+| 1990 | First `.es` registration (`nic.es`); Spain's first TCP/IP internet link |
+| 1991 | First external `.es` domain (`iac.es`); `ebd.csic.es` likely registered |
+| 1994 | CSIC formally takes over RedIRIS management |
+| 1995 | Commercial demand for `.es` explodes; academic monopoly ends |
+| Aug 1996 | Formal paid registration rules introduced; RedIRIS separates registry from services |
+| 2000 | Spanish Ministry of Industry takes `.es` management from RedIRIS; RED.ES created |
+
+As a domain `ebd.csic.es` has existed since approximately **late 1990–early
+1991**, and `ebd10.ebd.csic.es` as a hostname has been in DNS since the late to
+mid-1990s. The oldest Wayback Machine snapshot of the actual website is in
+[WebArchive](https://web.archive.org/web/*/http://ebd10.ebd.csic.es/). Here is a
+visual summary.
+
+--------------------------------------------------------------------------------
+
+:::: person-row
+![](/static/images/website_hist/1989-1996.png){fig-alt="Web site"}
+
+::: person-text
+**1989-1996** The very early site, designed with [NCSA
+Mosaic](https://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/).
+And later (1994) using [Netscape
+Communications](https://en.wikipedia.org/wiki/Netscape_(web_browser)).
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2000.png){fig-alt="2000"}
+
+::: person-text
+**2000**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2000.png){fig-alt="2001"}
+
+::: person-text
+**2001**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2002.png){fig-alt="2002"}
+
+::: person-text
+**2003**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2003.png){fig-alt="2003"}
+
+::: person-text
+**2003**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2007.png){fig-alt="2007"}
+
+::: person-text
+**2007**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2014.png){fig-alt="2014"}
+
+::: person-text
+**2014**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2018.png){fig-alt="2018"}
+
+::: person-text
+**2018**.
+:::
+::::
+
+:::: person-row
+![](/static/images/website_hist/2026.png){fig-alt="2018-present"}
+
+::: person-text
+**Present**.
+:::
+::::
+
+--------------------------------------------------------------------------------
+
+####
