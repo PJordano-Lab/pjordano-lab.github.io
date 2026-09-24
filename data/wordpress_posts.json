@@ -1,6 +1,6 @@
 {
   "site": "pedrojordano.wordpress.com",
-  "count": 93,
+  "count": 94,
   "posts": {
     "5": {
       "slug": "collaborative-project-csic-cnpq-with-brazil",
@@ -652,6 +652,13 @@
       "modified": "2026-07-03T18:21:40",
       "title": "In memoriam de Eugene W. Schupp: ciencia, amistad y legado ecológico",
       "url": "https://pedrojordano.wordpress.com/2026/07/03/geno/"
+    },
+    "955": {
+      "slug": "trashed-3",
+      "date": "2026-09-22T11:34:58",
+      "modified": "2026-09-22T12:13:28",
+      "title": "Long-distance dispersal",
+      "url": "https://pedrojordano.wordpress.com/2026/09/22/__trashed-3/"
     }
   }
 }
