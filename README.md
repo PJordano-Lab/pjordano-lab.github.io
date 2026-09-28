@@ -53,7 +53,6 @@ Built with [Quarto](https://quarto.org/), deployed via [GitHub Actions](https://
 ```bash
 quarto preview
 ```
-
 The site will be available at `http://localhost:4848` with live reload.
 
 ### Full build
@@ -61,23 +60,21 @@ The site will be available at `http://localhost:4848` with live reload.
 ```bash
 quarto render
 ```
-
 Output goes to `docs/` (committed and served by GitHub Pages).
 
 ## Publication Pipeline
 
 Publications are managed through two layers:
 
-1. **Auto-sync** (`open-alex.py`): Fetches the latest publications from the [OpenAlex API](https://openalex.org/) using ORCID `0000-0002-5108-9055`, then writes `data/publications.csv` and `_bibliography/papers.bib`, and generates/removes individual article pages under `research/articles/` and `research/working-papers/`.
+1. **Auto-sync** (`open-alex.py`): Fetches the latest publications from the [OpenAlex API](https://openalex.org/) using ORCID `0000-0003-2142-9116`, then writes `data/publications.csv` and `_bibliography/papers.bib`, and generates/removes individual article pages under `research/articles/` and `research/working-papers/`.
 
-2. **Manual pages**: Publication pages not returned by OpenAlex (e.g., works not claimed under your ORCID) are tracked in git and preserved. To add OpenAlex coverage for missing works, claim them at [openalex.org](https://openalex.org/).
+2. **Manual pages**: Publication pages not returned by OpenAlex (e.g., works not claimed under my ORCID) are tracked in git and preserved. To add OpenAlex coverage for missing works, claim them at [openalex.org](https://openalex.org/).
 
 To manually sync publications locally:
 
 ```bash
 python open-alex.py
 ```
-
 The GitHub Actions workflow (`.github/workflows/update-publications.yml`) runs this automatically on the 1st and 15th of each month, then commits and pushes any changes to `data/`.
 
 ### Code and data links on publication pages
@@ -97,7 +94,7 @@ single `[Code & data]` when both point at the same URL — plus anything listed
 under `extra:` as `{label, url}` pairs. Papers absent from the file are
 unchanged.
 
-Your Zenodo and figshare deposits are already in `data/publications.csv` as
+The Zenodo and figshare deposits are already in `data/publications.csv` as
 records of their own, so candidate entries can be inferred rather than typed:
 
 ```bash
@@ -108,7 +105,7 @@ Deposits get no page of their own: `open-alex.py` skips them (`_is_deposit()`),
 so they no longer appear as separate rows in the publications listing, and they
 are excluded from the publication count in `research.qmd`.
 
-After editing `data/paper_links.yml`, apply it to the pages that already exist
+After editing `data/paper_links.yml`, I apply it to the pages that already exist
 without running a full sync:
 
 ```bash

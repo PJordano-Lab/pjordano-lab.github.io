@@ -5,6 +5,9 @@ title-block-banner: "#1a1c20"
 hand-edited: true   # layout reworked by hand; _tools/convert-hugo-content.py skips this file
 ---
 
+![](static/images/tesla_banners/banner_33_medium.jpg){fig-align="center"
+width="1280"}
+
 ## A bit of history
 
 The history of `ebd.csic.es` domain is deeply intertwined with the birth of the
