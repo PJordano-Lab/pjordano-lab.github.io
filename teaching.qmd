@@ -8,7 +8,17 @@ title-block-banner: "#1a1c20"
 
 #### Upcoming Talks
 
-Talk: Upcoming.
+### 2026
+
+![](static/images/icons/bullet_pp.png)   Conference at Real Academia de Medicina
+y Cirugía de Sevilla, Spain. "Virus y Biodiversidad". October, 13, 2026. Within
+the "
+Ciclo Interacadémico- Los virus: diversidad, enfermedades y agentes de
+transmisión".
+
+![](static/images/icons/bullet_pp.png)   Conference at Real Academia de Ciencias
+Exactas, Físicas y Naturales, Madrid. 14 Oct. "El oscilador Van der Pol en
+sistemas ecológicos: ciclos, movimientos, plagas y otras dinámicas".
 
 --------------------------------------------------------------------------------
 
