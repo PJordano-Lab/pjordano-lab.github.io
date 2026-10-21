@@ -23,7 +23,7 @@ bundle exec jekyll build
 
 ### Publication Pipeline
 
-`open-alex.py` fetches publications from the OpenAlex API using ORCID `0000-0002-5108-9055`, writes data to:
+`open-alex.py` fetches publications from the OpenAlex API using ORCID `0000-0003-2142-9116`, writes data to:
 - `_bibliography/papers.bib` — BibTeX file used by jekyll-scholar to render the publications page
 - `data/publications.csv` — cached CSV for reference
 

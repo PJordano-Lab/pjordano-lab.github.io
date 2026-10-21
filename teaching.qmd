@@ -10,9 +10,9 @@ title-block-banner: "#1a1c20"
 
 ### 2026
 
-![](static/images/icons/bullet_pp.png) Conference at the I Encontro da Rede 
-DISPERSE, São Paulo, Brazil. "Five challenging questions for studies of 
-frugivory and seed dispersal". November 2026. 
+![](static/images/icons/bullet_pp.png) Conference at the I Encontro da Rede
+DISPERSE, São Paulo, Brazil. "Five challenging questions for studies of
+frugivory and seed dispersal". November 2026.
 
 ![](static/images/icons/bullet_pp.png)   Conference at Real Academia de Medicina
 y Cirugía de Sevilla, Spain. "Virus y Biodiversidad". October, 13, 2026. Within
@@ -68,9 +68,11 @@ ecología](http://ebd10.ebd.csic.es/evol/tecmol.html)
 
 ### 2026
 
-Conferece at the [DISPERSE Seminar Series](https://www.youtube.com/@RedeDISPERSE). 
-"The biodiversity of plant-frugivore interactions: Types, functions, and 
-consequences of their extinctions". [Online](https://www.youtube.com/watch?v=9klP4AC01Dk), São Paulo, Brazil - April 2026.
+Conferece at the [DISPERSE Seminar
+Series](https://www.youtube.com/@RedeDISPERSE). "The biodiversity
+of plant-frugivore interactions: Types, functions, and consequences of their
+extinctions". [Online](https://www.youtube.com/watch?v=9klP4AC01Dk), São Paulo,
+Brazil - April 2026.
 
 ### 2025
 
