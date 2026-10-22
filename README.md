@@ -49,6 +49,7 @@ Built with [Quarto](https://quarto.org/), deployed via [GitHub Actions](https://
 
 ```bash
 quarto preview
+
 ```
 The site will be available at `http://localhost:4848` with live reload.
 
@@ -56,6 +57,7 @@ The site will be available at `http://localhost:4848` with live reload.
 
 ```bash
 quarto render
+
 ```
 Output goes to `docs/` (committed and served by GitHub Pages).
 

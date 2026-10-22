@@ -3,11 +3,12 @@ title: "Fleshy‐Fruit Consumption in Doñana"
 authors: "Pablo Villalva, Elena Quintero, Jorge Isla et al."
 date: '2024-11-25'
 pub-journal: "Bulletin of the Ecological Society of America"
-volume-pages: "Vol. 106: e02197"
-citation-detail: "2024, 106: e02197"
-pages: "e02197"
-volume: "106"
 year: "2024"
+volume: "106"
+citation-detail: "2024, 106"
+volume-pages: "Vol. 106"
+authors-full: "Villalva, P., Quintero, E., Isla, J. and Jordano, P."
+publisher: "Ecological Society of America"
 doi: 10.1002/bes2.2197
 citation-url: https://doi.org/10.1002/bes2.2197
 format:
@@ -17,7 +18,7 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Pablo Villalva, Elena Quintero, Jorge Isla et al 2024. Fleshy‐Fruit Consumption in Doñana. *Bulletin of the Ecological Society of America* 106: e02197. <https://doi.org/10.1002/bes2.2197>
+Villalva, P., Quintero, E., Isla, J. and Jordano, P. 2024. Fleshy‐Fruit Consumption in Doñana. *Bulletin of the Ecological Society of America* 106. <https://doi.org/10.1002/bes2.2197>
 :::
 <!-- full-reference:end -->
 
@@ -47,17 +48,17 @@ Pablo Villalva, Elena Quintero, Jorge Isla et al 2024. Fleshy‐Fruit Consumptio
 ## BibTeX
 
 ```bibtex
-@article{RN30261,
-   author = {Villalva, Pablo and Quintero, Elena and Isla, Jorge and Jordano, Pedro},
-   title = {Fleshy‐fruit consumption in Doñana},
-   journal = {The Bulletin of the Ecological Society of America},
-   volume = {106},
-   number = {1},
-   pages = {e02197},
-   ISSN = {0012-9623, 2327-6096},
-   DOI = {10.1002/bes2.2197},
-   year = {2024},
-   type = {Journal Article}
+@article{villalva2024fleshyfruit,
+  title     = {Fleshy‐Fruit Consumption in Doñana},
+  author    = {Villalva, Pablo and Quintero, Elena and Isla, Jorge and Jordano, Pedro},
+  journal   = {Bulletin of the Ecological Society of America},
+  year      = {2024},
+  volume    = {106},
+  number    = {1},
+  doi       = {10.1002/bes2.2197},
+  url       = {https://doi.org/10.1002/bes2.2197},
+  pdf       = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.2197},
+  abbr      = {BESA},
+  selected  = {false}
 }
 ```
-

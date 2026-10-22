@@ -3,8 +3,10 @@ title: 'Author response for "Intraspecific variation in species interactions pro
 authors: "Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus"
 date: '2022-11-16'
 pub-journal: ""
-citation-detail: "2022"
 year: "2022"
+citation-detail: "2022"
+authors-full: "Arroyo‐Correa, B., Jordano, P. and Bartomeus, Í."
+publisher: "Wiley"
 doi: 10.1111/ele.14163/v2/response1
 citation-url: https://doi.org/10.1111/ele.14163/v2/response1
 format:
@@ -14,13 +16,13 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus 2022. Author response for "Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages". <https://doi.org/10.1111/ele.14163/v2/response1>
+Arroyo‐Correa, B., Jordano, P. and Bartomeus, Í. 2022. Author response for "Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages". <https://doi.org/10.1111/ele.14163/v2/response1>
 :::
 <!-- full-reference:end -->
 
 ## Publication Details
 
-**Published in:**&emsp;&emsp;**Open Access:** No
+**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -43,6 +45,12 @@ Blanca Arroyo‐Correa, Pedro Jordano, Ígnasi Bartomeus 2022. Author response f
 ## BibTeX
 
 ```bibtex
-@misc{Blanca_Arroyo_Correa_2022, title={Author response for “Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages”}, url={http://dx.doi.org/10.1111/ele.14163/v2/response1}, DOI={10.1111/ele.14163/v2/response1}, publisher={Wiley}, author={Blanca Arroyo‐Correa and Pedro Jordano and Ignasi Bartomeus}, year={2022}, month=Nov }
+@article{arroyocorrea2022author,
+  title     = {Author response for "Intraspecific variation in species interactions promotes the feasibility of mutualistic assemblages"},
+  author    = {Arroyo‐Correa, Blanca and Jordano, Pedro and Bartomeus, Ígnasi},
+  year      = {2022},
+  doi       = {10.1111/ele.14163/v2/response1},
+  url       = {https://doi.org/10.1111/ele.14163/v2/response1},
+  selected  = {false}
+}
 ```
-

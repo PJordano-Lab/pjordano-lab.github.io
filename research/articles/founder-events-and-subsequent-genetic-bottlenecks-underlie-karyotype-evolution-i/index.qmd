@@ -1,13 +1,15 @@
 ---
 title: "Founder events and subsequent genetic bottlenecks underlie karyotype evolution in the Ibero-North African endemic Carex helodes"
-authors: "Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al."
+authors: "Marcial Escudero, Juan Arroyo, Santiago Sanchez Ramirez et al."
 date: '2023-07-03'
 pub-journal: "Annals of Botany"
-volume-pages: "Vol. 133: 871–882"
-citation-detail: "2024, 133: 871–882"
-pages: "871–882"
+year: "2023"
 volume: "133"
-year: "2024"
+pages: "871–882"
+citation-detail: "2023, 133: 871–882"
+volume-pages: "Vol. 133: 871–882"
+authors-full: "Escudero, M., Arroyo, J., Ramirez, S. S. and Jordano, P."
+publisher: "Oxford University Press"
 doi: 10.1093/aob/mcad087
 citation-url: https://doi.org/10.1093/aob/mcad087
 format:
@@ -17,7 +19,7 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al 2024. Founder events and subsequent genetic bottlenecks underlie karyotype evolution in the Ibero-North African endemic Carex helodes. *Annals of Botany* 133: 871–882. <https://doi.org/10.1093/aob/mcad087>
+Escudero, M., Arroyo, J., Ramirez, S. S. and Jordano, P. 2023. Founder events and subsequent genetic bottlenecks underlie karyotype evolution in the Ibero-North African endemic Carex helodes. *Annals of Botany* 133: 871–882. <https://doi.org/10.1093/aob/mcad087>
 :::
 <!-- full-reference:end -->
 
@@ -47,18 +49,18 @@ Marcial Escudero, Juan Arroyo, Santiago Sánchez‐Ramírez et al 2024. Founder 
 ## BibTeX
 
 ```bibtex
-@article{RN29917,
-   author = {Escudero, Marcial and Arroyo, Juan Miguel and Sánchez-Ramírez, Santiago and Jordano, Pedro},
-   title = {Founder events and subsequent genetic bottlenecks underlie karyotype evolution in the Ibero-North African endemic Carex helodes},
-   journal = {Annals of Botany},
-   volume = {133},
-   number = {5-6},
-   pages = {871–882},
-   abstract = {Despite chromosomal evolution being one of the major drivers of diversification in plants, we do not yet have a clear view of how new chromosome rearrangements become fixed within populations, which is a crucial step forward for understanding chromosomal speciation.In this study, we test the role of genetic drift in the establishment of new chromosomal variants in the context of hybrid dysfunction models of chromosomal speciation. We genotyped 178 individuals from seven populations (plus 25 seeds from one population) across the geographical range of Carex helodes (Cyperaceae). We also characterized karyotype geographical patterns of the species across its distribution range. For one of the populations, we performed a detailed study of the fine-scale, local spatial distribution of its individuals and their genotypes and karyotypes.Synergistically, phylogeographical and karyotypic evidence revealed two main genetic groups: southwestern Iberian Peninsula vs. northwestern African populations; and within Europe our results suggest a west-to-east expansion with signals of genetic bottlenecks. Additionally, we inferred a pattern of descending dysploidy, plausibly as a result of a west-to-east process of post-glacial colonization in Europe.Our results give experimental support to the role of geographical isolation, drift and inbreeding in the establishment of new karyotypes, which is key in the speciation models of hybrid dysfunction.},
-   ISSN = {0305-7364},
-   DOI = {10.1093/aob/mcad087},
-   year = {2024},
-   type = {Journal Article}
+@article{escudero2023founder,
+  title     = {Founder events and subsequent genetic bottlenecks underlie karyotype evolution in the Ibero-North African endemic Carex helodes},
+  author    = {Escudero, Marcial and Arroyo, Juan and Ramirez, Santiago Sanchez and Jordano, Pedro},
+  journal   = {Annals of Botany},
+  year      = {2023},
+  volume    = {133},
+  number    = {5-6},
+  pages     = {871--882},
+  doi       = {10.1093/aob/mcad087},
+  url       = {https://doi.org/10.1093/aob/mcad087},
+  pdf       = {https://academic.oup.com/aob/advance-article-pdf/doi/10.1093/aob/mcad087/55144174/mcad087.pdf},
+  abbr      = {AB},
+  selected  = {false}
 }
 ```
-

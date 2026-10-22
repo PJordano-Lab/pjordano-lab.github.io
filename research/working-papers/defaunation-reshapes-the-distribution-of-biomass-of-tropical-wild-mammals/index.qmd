@@ -1,10 +1,13 @@
 ---
 title: "Defaunation reshapes the distribution of biomass of tropical wild mammals"
-authors: "Iago Ferreiro Arias, Martin Philippe-Lesaffre, Luca Santini et al."
+authors: "Iago Ferreiro‐Arias, Martin Philippe‐Lesaffre, Luca Santini et al."
 date: '2026-06-09'
 pub-journal: "Research Square"
-citation-detail: "2026"
 year: "2026"
+citation-detail: "2026"
+pub-type: "misc"
+authors-full: "Ferreiro‐Arias, I., Philippe‐Lesaffre, M., Santini, L., Peres, C. A., Haugaasen, T., Jordano, P., Revilla, E. and Benítez‐López, A."
+publisher: "Springer Science and Business Media LLC"
 doi: 10.21203/rs.3.rs-9644263/v1
 citation-url: https://doi.org/10.21203/rs.3.rs-9644263/v1
 format:
@@ -12,14 +15,14 @@ format:
     toc: true
 ---
 
-<!-- full-citation:start -->
+<!-- full-reference:start -->
+::: {.full-reference}
+Ferreiro‐Arias, I., Philippe‐Lesaffre, M., Santini, L., Peres, C. A., Haugaasen, T., Jordano, P., Revilla, E. and Benítez‐López, A. 2026. Defaunation reshapes the distribution of biomass of tropical wild mammals. *Research Square*. Preprint. <https://doi.org/10.21203/rs.3.rs-9644263/v1>
+:::
+<!-- full-reference:end -->
 
-## Full citation
-
-Ferreiro Arias, I., Philippe-Lesaffre, M., Santini, L., Peres, C., Haugaasen, T., Jordano, P., Revilla, E. and Benítez-López, A. 2026. Defaunation reshapes the distribution of biomass of tropical wild mammals. – Research Square.
-<!-- full-citation:end -->
-
-::: {.callout-warning title="Preprint"}
+::: {.callout-warning}
+## Preprint
 This is a preprint and has not undergone peer review. Interpret findings with caution.
 :::
 
@@ -46,3 +49,18 @@ This is a preprint and has not undergone peer review. Interpret findings with ca
 [OpenAlex](https://openalex.org/W7164051013)
 :::
 
+## BibTeX
+
+```bibtex
+@misc{ferreiroarias2026defaunation,
+  title     = {Defaunation reshapes the distribution of biomass of tropical wild mammals},
+  author    = {Ferreiro‐Arias, Iago and Philippe‐Lesaffre, Martin and Santini, Luca and Peres, Carlos A. and Haugaasen, Torbjørn and Jordano, Pedro and Revilla, Eloy and Benítez‐López, Ana},
+  note      = {Preprint: Research Square},
+  year      = {2026},
+  doi       = {10.21203/rs.3.rs-9644263/v1},
+  url       = {https://doi.org/10.21203/rs.3.rs-9644263/v1},
+  pdf       = {https://doi.org/10.21203/rs.3.rs-9644263/v1},
+  abbr      = {RS},
+  selected  = {false}
+}
+```

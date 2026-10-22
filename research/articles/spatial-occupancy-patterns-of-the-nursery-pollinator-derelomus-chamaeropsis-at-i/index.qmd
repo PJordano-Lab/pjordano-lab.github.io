@@ -3,11 +3,13 @@ title: "Spatial occupancy patterns of the nursery pollinator Derelomus chamaerop
 authors: "Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al."
 date: '2025-03-30'
 pub-journal: "Journal of Pollination Ecology"
-volume-pages: "Vol. 38: 82–96"
-citation-detail: "2025, 38: 82–96"
-pages: "82–96"
-volume: "38"
 year: "2025"
+volume: "38"
+pages: "82–96"
+citation-detail: "2025, 38: 82–96"
+volume-pages: "Vol. 38: 82–96"
+authors-full: "Moreno, M., Jácome‐Flores, M. E., Jordano, P., García, G. and Fedriani, J. M."
+publisher: "Enviroquest Ltd."
 doi: 10.26786/1920-7603(2025)829
 citation-url: https://doi.org/10.26786/1920-7603(2025)829
 format:
@@ -17,7 +19,7 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al 2025. Spatial occupancy patterns of the nursery pollinator Derelomus chamaeropsis at its host plant, Chamaerops humilis (Arecaceae). *Journal of Pollination Ecology* 38: 82–96. <https://doi.org/10.26786/1920-7603(2025)829>
+Moreno, M., Jácome‐Flores, M. E., Jordano, P., García, G. and Fedriani, J. M. 2025. Spatial occupancy patterns of the nursery pollinator Derelomus chamaeropsis at its host plant, Chamaerops humilis (Arecaceae). *Journal of Pollination Ecology* 38: 82–96. <https://doi.org/10.26786/1920-7603(2025)829>
 :::
 <!-- full-reference:end -->
 
@@ -47,18 +49,17 @@ Miguel Moreno, Miguel E. Jácome‐Flores, Pedro Jordano et al 2025. Spatial occ
 ## BibTeX
 
 ```bibtex
-@article{RN30715,
-   author = {Moreno, Miguel and Jacome-Flores, Miguel and Jordano, Pedro and Calvo García, Gemma and Fedriani, Jose},
-   title = {Spatial occupancy patterns of the nursery pollinator Derelomus chamaeropsis at its host plant, Chamaerops humilis (Arecaceae)},
-   journal = {Journal of Pollination Ecology},
-   volume = {38},
-   number = {5},
-   pages = {82–96},
-   abstract = {Pollination success is influenced by factors such as density and distance from neighbouring conspecifics. However, the pure neighbourhood effects of spatial patterns of interaction on pollination success remains poorly understood. In this study, we used techniques of spatial point pattern analysis (SPPA) to investigate the relationship between the spatial distribution of a specialist pollinator, the weevil Derelomus chamaeropis, and the fruiting success of its host plant, the dwarf palm Chamaerops humilis, within a nursery pollination system. We georeferenced a dwarf palm population in a 22-hectare plot (96 individuals: 41 females/ 55 males), located at the Doñana National Park (SW Spain). We quantified the abundance and spatial pattern of adult weevil occupancy, and their correlation with the spatial distribution of dwarf palms. Additionally, we analysed the spatial pattern of fruiting success and how palm traits (number of inflorescences and flowers, and sex) influenced adult weevil abundance and fruiting success. Our findings revealed that presence/abundance of D. chamaeropis depended on plant sex, with female inflorescences showing significantly higher adult weevil abundances. We found a significant, negative density-dependent response, where higher neighbourhood density of palms led to reduced local weevil abundance. In contrast, we observed positive density and distance dependence for fruiting success at small spatial scales (2-5 m and 5-15 m), suggesting enhanced pollination success in dense patches. Our results indicate that weevil distribution is shaped by local resource availability and competitive interactions rather than broader palm arrangement. Additionally, pollination efficiency and fruit set benefit from positive distance-density dependence in dense patches.},
-   keywords = {⛔ No DOI found},
-   DOI = {10.26786/1920-7603(2025)829},
-   year = {2025},
-   type = {Journal Article}
+@article{moreno2025spatial,
+  title     = {Spatial occupancy patterns of the nursery pollinator Derelomus chamaeropsis at its host plant, Chamaerops humilis (Arecaceae)},
+  author    = {Moreno, Miguel and Jácome‐Flores, Miguel E. and Jordano, Pedro and García, G. and Fedriani, José M.},
+  journal   = {Journal of Pollination Ecology},
+  year      = {2025},
+  volume    = {38},
+  pages     = {82--96},
+  doi       = {10.26786/1920-7603(2025)829},
+  url       = {https://doi.org/10.26786/1920-7603(2025)829},
+  pdf       = {https://doi.org/10.26786/1920-7603(2025)829},
+  abbr      = {JPE},
+  selected  = {false}
 }
 ```
-

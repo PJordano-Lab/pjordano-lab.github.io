@@ -3,11 +3,13 @@ title: "Indirect effects shape species fitness in coevolved mutualistic networks
 authors: "Leandro G. Cosmo, Ana Paula A. Assis, Marcus A. M. de Aguiar et al."
 date: '2023-07-19'
 pub-journal: "Nature"
-volume-pages: "Vol. 619: 788–792"
-citation-detail: "2023, 619: 788–792"
-pages: "788–792"
-volume: "619"
 year: "2023"
+volume: "619"
+pages: "788–792"
+citation-detail: "2023, 619: 788–792"
+volume-pages: "Vol. 619: 788–792"
+authors-full: "Cosmo, L. G., Assis, A. P. A., de Aguiar, M. A. M., Pires, M. M., Valido, A., Jordano, P., Thompson, J. N., Bascompte, J. and Guimarães, P. R."
+publisher: "Nature Portfolio"
 doi: 10.1038/s41586-023-06319-7
 citation-url: https://doi.org/10.1038/s41586-023-06319-7
 format:
@@ -17,7 +19,7 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Leandro G. Cosmo, Ana Paula A. Assis, Marcus A. M. de Aguiar et al 2023. Indirect effects shape species fitness in coevolved mutualistic networks. *Nature* 619: 788–792. <https://doi.org/10.1038/s41586-023-06319-7>
+Cosmo, L. G., Assis, A. P. A., de Aguiar, M. A. M., Pires, M. M., Valido, A., Jordano, P., Thompson, J. N., Bascompte, J. and Guimarães, P. R. 2023. Indirect effects shape species fitness in coevolved mutualistic networks. *Nature* 619: 788–792. <https://doi.org/10.1038/s41586-023-06319-7>
 :::
 <!-- full-reference:end -->
 
@@ -47,17 +49,18 @@ Leandro G. Cosmo, Ana Paula A. Assis, Marcus A. M. de Aguiar et al 2023. Indirec
 ## BibTeX
 
 ```bibtex
-@article{RN29348,
-   author = {Cosmo, Leandro G. and Assis, Ana Paula A. and De Aguiar, Marcus A. M. and Pires, Mathias M. and Valido, Alfredo and Jordano, Pedro and Thompson, John N. and Bascompte, Jordi and Guimarães, Paulo R.},
-   title = {Indirect effects shape species fitness in coevolved mutualistic networks},
-   journal = {Nature},
-   volume = {619},
-   number = {7971},
-   pages = {788–792},
-   ISSN = {0028-0836, 1476-4687},
-   DOI = {10.1038/s41586-023-06319-7},
-   year = {2023},
-   type = {Journal Article}
+@article{cosmo2023indirect,
+  title     = {Indirect effects shape species fitness in coevolved mutualistic networks},
+  author    = {Cosmo, Leandro G. and Assis, Ana Paula A. and Aguiar, Marcus A. M. de and Pires, Mathias Mistretta and Valido, Alfredo and Jordano, Pedro and Thompson, John N. and Bascompte, Jordi and Guimarães, Paulo R.},
+  journal   = {Nature},
+  year      = {2023},
+  volume    = {619},
+  number    = {7971},
+  pages     = {788--792},
+  doi       = {10.1038/s41586-023-06319-7},
+  url       = {https://doi.org/10.1038/s41586-023-06319-7},
+  pdf       = {https://digital.csic.es/bitstream/10261/341663/3/Indirect-Cosmo_et_al-2023-Nature.pdf},
+  abbr      = {N},
+  selected  = {false}
 }
 ```
-

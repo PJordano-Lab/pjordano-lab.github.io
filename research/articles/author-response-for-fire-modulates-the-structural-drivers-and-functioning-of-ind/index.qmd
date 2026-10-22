@@ -1,0 +1,56 @@
+---
+title: 'Author response for "Fire modulates the structural drivers and functioning of individual-based plant-pollinator networks"'
+authors: "Larissa Alves-de-Lima, Diego Vinicius Anjos, Blanca Arroyo‐Correa et al."
+date: '2026-03-02'
+pub-journal: ""
+year: "2026"
+citation-detail: "2026"
+authors-full: "Alves-de-Lima, L., Anjos, D. V., Arroyo‐Correa, B., Novaes, L. R., Jordano, P. and Torezan‐Silingardi, H. M."
+publisher: "Wiley"
+doi: 10.1111/1365-2745.70348/v2/response1
+citation-url: https://doi.org/10.1111/1365-2745.70348/v2/response1
+format:
+  html:
+    toc: true
+---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Alves-de-Lima, L., Anjos, D. V., Arroyo‐Correa, B., Novaes, L. R., Jordano, P. and Torezan‐Silingardi, H. M. 2026. Author response for "Fire modulates the structural drivers and functioning of individual-based plant-pollinator networks". <https://doi.org/10.1111/1365-2745.70348/v2/response1>
+:::
+<!-- full-reference:end -->
+
+## Publication Details
+
+**Open Access:** No
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1111/1365-2745.70348/v2/response1" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1111/1365-2745.70348/v2/response1" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1111/1365-2745.70348/v2/response1){.paper-link-primary}
+[OpenAlex](https://openalex.org/W7161280325)
+:::
+
+## BibTeX
+
+```bibtex
+@article{alvesdelima2026author,
+  title     = {Author response for "Fire modulates the structural drivers and functioning of individual-based plant-pollinator networks"},
+  author    = {Alves-de-Lima, Larissa and Anjos, Diego Vinicius and Arroyo‐Correa, Blanca and Novaes, Letícia Rodrigues and Jordano, Pedro and Torezan‐Silingardi, Helena Maura},
+  year      = {2026},
+  doi       = {10.1111/1365-2745.70348/v2/response1},
+  url       = {https://doi.org/10.1111/1365-2745.70348/v2/response1},
+  selected  = {false}
+}
+```

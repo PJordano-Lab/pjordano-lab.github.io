@@ -1,0 +1,64 @@
+---
+title: "A comprehensive, multi-method dataset of plant-frugivore interactions in a Mediterranean hotspot"
+authors: "Eva Moracho, Juan Miguel Arroyo, Blanca Arroyo‐Correa et al."
+date: '2026-02-16'
+pub-journal: "Scientific Data"
+year: "2026"
+volume: "13"
+citation-detail: "2026, 13"
+volume-pages: "Vol. 13"
+authors-full: "Moracho, E., Arroyo, J. M., Arroyo‐Correa, B., Calvo, G., Homet, P., Isla, J., Jácome‐Flores, M. E., Mendoza, I., Quintero, E., Rodriguez-Sanchez, F., Villalva, P. and Jordano, P."
+publisher: "Nature Portfolio"
+doi: 10.1038/s41597-026-06835-x
+citation-url: https://doi.org/10.1038/s41597-026-06835-x
+format:
+  html:
+    toc: true
+---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Moracho, E., Arroyo, J. M., Arroyo‐Correa, B., Calvo, G., Homet, P., Isla, J., Jácome‐Flores, M. E., Mendoza, I., Quintero, E., Rodriguez-Sanchez, F., Villalva, P. and Jordano, P. 2026. A comprehensive, multi-method dataset of plant-frugivore interactions in a Mediterranean hotspot. *Scientific Data* 13. <https://doi.org/10.1038/s41597-026-06835-x>
+:::
+<!-- full-reference:end -->
+
+## Publication Details
+
+**Published in:** Scientific Data&emsp;&emsp;**Open Access:** Yes
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1038/s41597-026-06835-x" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1038/s41597-026-06835-x" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1038/s41597-026-06835-x){.paper-link-primary}
+[PDF](https://doi.org/10.1038/s41597-026-06835-x)
+[OpenAlex](https://openalex.org/W7129102237)
+:::
+
+## BibTeX
+
+```bibtex
+@article{moracho2026comprehensive,
+  title     = {A comprehensive, multi-method dataset of plant-frugivore interactions in a Mediterranean hotspot},
+  author    = {Moracho, Eva and Arroyo, Juan Miguel and Arroyo‐Correa, Blanca and Calvo, Gemma and Homet, Pablo and Isla, Jorge and Jácome‐Flores, Miguel E. and Mendoza, Irene and Quintero, Elena and Rodriguez-Sanchez, Francisco and Villalva, Pablo and Jordano, Pedro},
+  journal   = {Scientific Data},
+  year      = {2026},
+  volume    = {13},
+  number    = {1},
+  doi       = {10.1038/s41597-026-06835-x},
+  url       = {https://doi.org/10.1038/s41597-026-06835-x},
+  pdf       = {https://doi.org/10.1038/s41597-026-06835-x},
+  abbr      = {SD},
+  selected  = {false}
+}
+```

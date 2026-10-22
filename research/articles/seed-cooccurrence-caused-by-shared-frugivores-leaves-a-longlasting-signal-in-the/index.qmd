@@ -1,0 +1,64 @@
+---
+title: "Seed co‐occurrence caused by shared frugivores leaves a long‐lasting signal in the spatial co‐occurrence among plants"
+authors: "Antonio J. Perea, Elena Quintero, Jorge Isla et al."
+date: '2026-03-04'
+pub-journal: "Oikos"
+year: "2026"
+volume: "2026"
+citation-detail: "2026, 2026"
+volume-pages: "Vol. 2026"
+authors-full: "Perea, A. J., Quintero, E., Isla, J., Acevedo‐Limón, L., Arroyo‐Correa, B., García, G., Homet, P., Wiegand, T. and Jordano, P."
+publisher: "Wiley"
+doi: 10.1002/oik.11830
+citation-url: https://doi.org/10.1002/oik.11830
+format:
+  html:
+    toc: true
+---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Perea, A. J., Quintero, E., Isla, J., Acevedo‐Limón, L., Arroyo‐Correa, B., García, G., Homet, P., Wiegand, T. and Jordano, P. 2026. Seed co‐occurrence caused by shared frugivores leaves a long‐lasting signal in the spatial co‐occurrence among plants. *Oikos* 2026. <https://doi.org/10.1002/oik.11830>
+:::
+<!-- full-reference:end -->
+
+## Publication Details
+
+**Published in:** Oikos&emsp;&emsp;**Open Access:** Yes
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1002/oik.11830" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1002/oik.11830" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1002/oik.11830){.paper-link-primary}
+[PDF](https://doi.org/10.1002/oik.11830)
+[OpenAlex](https://openalex.org/W7134192707)
+:::
+
+## BibTeX
+
+```bibtex
+@article{perea2026seed,
+  title     = {Seed co‐occurrence caused by shared frugivores leaves a long‐lasting signal in the spatial co‐occurrence among plants},
+  author    = {Perea, Antonio J. and Quintero, Elena and Isla, Jorge and Acevedo‐Limón, Lucía and Arroyo‐Correa, Blanca and García, G. and Homet, Pablo and Wiegand, Thorsten and Jordano, Pedro},
+  journal   = {Oikos},
+  year      = {2026},
+  volume    = {2026},
+  number    = {9},
+  doi       = {10.1002/oik.11830},
+  url       = {https://doi.org/10.1002/oik.11830},
+  pdf       = {https://doi.org/10.1002/oik.11830},
+  abbr      = {O},
+  selected  = {false}
+}
+```

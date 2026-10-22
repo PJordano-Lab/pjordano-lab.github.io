@@ -1,0 +1,66 @@
+---
+title: "A comparative analysis of fruit feeding among Mediterranean passerine birds"
+authors: "Pedro Jordano, Elena Quintero, Jorge Isla"
+date: '2026-03-22'
+pub-journal: "bioRxiv (Cold Spring Harbor Laboratory)"
+year: "2026"
+citation-detail: "2026"
+pub-type: "misc"
+authors-full: "Jordano, P., Quintero, E. and Isla, J."
+publisher: "Cold Spring Harbor Laboratory"
+doi: 10.64898/2026.03.20.712853
+citation-url: https://doi.org/10.64898/2026.03.20.712853
+format:
+  html:
+    toc: true
+---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Jordano, P., Quintero, E. and Isla, J. 2026. A comparative analysis of fruit feeding among Mediterranean passerine birds. *bioRxiv (Cold Spring Harbor Laboratory)*. Preprint. <https://doi.org/10.64898/2026.03.20.712853>
+:::
+<!-- full-reference:end -->
+
+::: {.callout-warning}
+## Preprint
+This is a preprint and has not undergone peer review. Interpret findings with caution.
+:::
+
+## Publication Details
+
+**Published in:** bioRxiv (Cold Spring Harbor Laboratory)&emsp;&emsp;**Open Access:** Yes
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.64898/2026.03.20.712853" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.64898/2026.03.20.712853" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.64898/2026.03.20.712853){.paper-link-primary}
+[PDF](https://www.biorxiv.org/content/biorxiv/early/2026/03/22/2026.03.20.712853.full.pdf)
+[OpenAlex](https://openalex.org/W7140041971)
+:::
+
+## BibTeX
+
+```bibtex
+@misc{jordano2026comparative,
+  title     = {A comparative analysis of fruit feeding among Mediterranean passerine birds},
+  author    = {Jordano, Pedro and Quintero, Elena and Isla, Jorge},
+  note      = {Preprint: bioRxiv (Cold Spring Harbor Laboratory)},
+  year      = {2026},
+  doi       = {10.64898/2026.03.20.712853},
+  url       = {https://doi.org/10.64898/2026.03.20.712853},
+  pdf       = {https://www.biorxiv.org/content/biorxiv/early/2026/03/22/2026.03.20.712853.full.pdf},
+  abbr      = {BSH},
+  selected  = {false}
+}
+```

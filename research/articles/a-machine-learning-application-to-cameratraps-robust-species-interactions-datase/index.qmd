@@ -1,0 +1,66 @@
+---
+title: "A Machine Learning Application to Camera‐Traps: Robust Species Interactions Datasets for Analysis of Mutualistic Networks"
+authors: "Pablo Villalva, Pedro Jordano"
+date: '2026-01-01'
+pub-journal: "Ecology and Evolution"
+year: "2026"
+volume: "16"
+pages: "e72584"
+citation-detail: "2026, 16: e72584"
+volume-pages: "Vol. 16: e72584"
+authors-full: "Villalva, P. and Jordano, P."
+publisher: "Wiley"
+doi: 10.1002/ece3.72584
+citation-url: https://doi.org/10.1002/ece3.72584
+format:
+  html:
+    toc: true
+---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Villalva, P. and Jordano, P. 2026. A Machine Learning Application to Camera‐Traps: Robust Species Interactions Datasets for Analysis of Mutualistic Networks. *Ecology and Evolution* 16: e72584. <https://doi.org/10.1002/ece3.72584>
+:::
+<!-- full-reference:end -->
+
+## Publication Details
+
+**Published in:** Ecology and Evolution&emsp;&emsp;**Open Access:** Yes
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1002/ece3.72584" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1002/ece3.72584" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1002/ece3.72584){.paper-link-primary}
+[PDF](https://doi.org/10.1002/ece3.72584)
+[OpenAlex](https://openalex.org/W7125432994)
+:::
+
+## BibTeX
+
+```bibtex
+@article{villalva2026machine,
+  title     = {A Machine Learning Application to Camera‐Traps: Robust Species Interactions Datasets for Analysis of Mutualistic Networks},
+  author    = {Villalva, Pablo and Jordano, Pedro},
+  journal   = {Ecology and Evolution},
+  year      = {2026},
+  volume    = {16},
+  number    = {1},
+  pages     = {e72584},
+  doi       = {10.1002/ece3.72584},
+  url       = {https://doi.org/10.1002/ece3.72584},
+  pdf       = {https://doi.org/10.1002/ece3.72584},
+  abbr      = {EE},
+  selected  = {false}
+}
+```

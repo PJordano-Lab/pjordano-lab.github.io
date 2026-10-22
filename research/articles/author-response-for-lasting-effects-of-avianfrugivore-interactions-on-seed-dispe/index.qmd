@@ -3,8 +3,10 @@ title: 'Author response for "Lasting effects of avian‐frugivore interactions o
 authors: "Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al."
 date: '2023-11-21'
 pub-journal: ""
-citation-detail: "2023"
 year: "2023"
+citation-detail: "2023"
+authors-full: "Quintero, E., Arroyo, J., Dirzo, R., Jordano, P. and Rodríguez‐Sánchez, F."
+publisher: "Wiley"
 doi: 10.1111/1365-2745.14260/v2/response1
 citation-url: https://doi.org/10.1111/1365-2745.14260/v2/response1
 format:
@@ -14,13 +16,13 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al 2023. Author response for "Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment". <https://doi.org/10.1111/1365-2745.14260/v2/response1>
+Quintero, E., Arroyo, J., Dirzo, R., Jordano, P. and Rodríguez‐Sánchez, F. 2023. Author response for "Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment". <https://doi.org/10.1111/1365-2745.14260/v2/response1>
 :::
 <!-- full-reference:end -->
 
 ## Publication Details
 
-**Published in:**&emsp;&emsp;**Open Access:** No
+**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -43,6 +45,12 @@ Elena Quintero, Juan Arroyo, Rodolfo Dirzo et al 2023. Author response for "Last
 ## BibTeX
 
 ```bibtex
-@misc{Elena_Quintero_2023, title={Author response for “Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment”}, url={http://dx.doi.org/10.1111/1365-2745.14260/v2/response1}, DOI={10.1111/1365-2745.14260/v2/response1}, publisher={Wiley}, author={Elena Quintero and Juan Miguel Arroyo and Rodolfo Dirzo and Pedro Jordano and Francisco Rodríguez‐Sánchez}, year={2023}, month=Nov }
+@article{quintero2023author,
+  title     = {Author response for "Lasting effects of avian‐frugivore interactions on seed dispersal and seedling establishment"},
+  author    = {Quintero, Elena and Arroyo, Juan and Dirzo, Rodolfo and Jordano, Pedro and Rodríguez‐Sánchez, Francisco},
+  year      = {2023},
+  doi       = {10.1111/1365-2745.14260/v2/response1},
+  url       = {https://doi.org/10.1111/1365-2745.14260/v2/response1},
+  selected  = {false}
+}
 ```
-

@@ -3,8 +3,10 @@ title: 'Author response for "Animal‐mediated seed dispersal and the demo‐gen
 authors: "Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al."
 date: '2024-01-22'
 pub-journal: ""
-citation-detail: "2024"
 year: "2024"
+citation-detail: "2024"
+authors-full: "Isla, J., Jácome‐Flores, M. E., Rigueiro, C., Arroyo, J., Jordano, P. and García, C."
+publisher: "Wiley"
 doi: 10.1111/1365-2745.14280/v2/response1
 citation-url: https://doi.org/10.1111/1365-2745.14280/v2/response1
 format:
@@ -14,13 +16,13 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al 2024. Author response for "Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients". <https://doi.org/10.1111/1365-2745.14280/v2/response1>
+Isla, J., Jácome‐Flores, M. E., Rigueiro, C., Arroyo, J., Jordano, P. and García, C. 2024. Author response for "Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients". <https://doi.org/10.1111/1365-2745.14280/v2/response1>
 :::
 <!-- full-reference:end -->
 
 ## Publication Details
 
-**Published in:**&emsp;&emsp;**Open Access:** No
+**Open Access:** No
 
 <!-- badges:start -->
 ::: {.article-badges}
@@ -43,6 +45,12 @@ Jorge Isla, Miguel E. Jácome‐Flores, Cristina Rigueiro et al 2024. Author res
 ## BibTeX
 
 ```bibtex
-@misc{Jorge_Isla_2024, title={Author response for “Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients”}, url={http://dx.doi.org/10.1111/1365-2745.14280/v2/response1}, DOI={10.1111/1365-2745.14280/v2/response1}, publisher={Wiley}, author={Jorge Isla and Miguel Jácome‐Flores and Cristina Rigueiro and Juan Miguel Arroyo and Pedro Jordano and Cristina García}, year={2024}, month=Jan }
+@article{isla2024author,
+  title     = {Author response for "Animal‐mediated seed dispersal and the demo‐genetic configuration across plant colonization gradients"},
+  author    = {Isla, Jorge and Jácome‐Flores, Miguel E. and Rigueiro, Cristina and Arroyo, Juan and Jordano, Pedro and García, Cristina},
+  year      = {2024},
+  doi       = {10.1111/1365-2745.14280/v2/response1},
+  url       = {https://doi.org/10.1111/1365-2745.14280/v2/response1},
+  selected  = {false}
+}
 ```
-

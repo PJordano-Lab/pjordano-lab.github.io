@@ -1,10 +1,14 @@
 ---
 title: "Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor"
-authors: "Pedro Jordano, José María Gómez"
+authors: "Pedro Jordano, JosÃ© MarÃ­a GÃ mez"
 date: '2026-08-25'
 pub-journal: "Bulletin of the Ecological Society of America"
-citation-detail: "2026"
 year: "2026"
+volume: "107"
+citation-detail: "2026, 107"
+volume-pages: "Vol. 107"
+authors-full: "Jordano, P. and mez, J. M. G."
+publisher: "Ecological Society of America"
 doi: 10.1002/bes2.70097
 citation-url: https://doi.org/10.1002/bes2.70097
 format:
@@ -14,7 +18,7 @@ format:
 
 <!-- full-reference:start -->
 ::: {.full-reference}
-Pedro Jordano, José María Gómez 2026. Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor. *Bulletin of the Ecological Society of America*. <https://doi.org/10.1002/bes2.70097>
+Jordano, P. and mez, J. M. G. 2026. Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor. *Bulletin of the Ecological Society of America* 107. <https://doi.org/10.1002/bes2.70097>
 :::
 <!-- full-reference:end -->
 
@@ -44,15 +48,17 @@ Pedro Jordano, José María Gómez 2026. Resolution of Respect Eugene “Geno”
 ## BibTeX
 
 ```bibtex
-@article{RN58513,
-   author = {Jordano, Pedro and Gómez, José María},
-   title = {Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor},
-   journal = {The Bulletin of the Ecological Society of America},
-   ISSN = {0012-9623
-2327-6096},
-   DOI = {10.1002/bes2.70097},
-   year = {2026},
-   type = {Journal Article}
+@article{jordano2026resolution,
+  title     = {Resolution of Respect Eugene “Geno” Wallace Schupp (1952–2026) Seed dispersal ecologist, restoration scientist, mentor},
+  author    = {Jordano, Pedro and mez, JosÃ© MarÃ­a GÃ},
+  journal   = {Bulletin of the Ecological Society of America},
+  year      = {2026},
+  volume    = {107},
+  number    = {4},
+  doi       = {10.1002/bes2.70097},
+  url       = {https://doi.org/10.1002/bes2.70097},
+  pdf       = {https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.70097},
+  abbr      = {BESA},
+  selected  = {false}
 }
 ```
-

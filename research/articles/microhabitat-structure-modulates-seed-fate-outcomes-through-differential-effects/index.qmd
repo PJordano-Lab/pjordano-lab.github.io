@@ -1,0 +1,65 @@
+---
+title: "Microhabitat structure modulates seed fate outcomes through differential effects on native and exotic rodent interactions in an endangered palm species"
+authors: "Sebastián Cordero, Francisca Gálvez, Gastón O. Carvallo et al."
+date: '2025-12-29'
+pub-journal: "Basic and Applied Ecology"
+year: "2025"
+volume: "90"
+pages: "140–145"
+citation-detail: "2025, 90: 140–145"
+volume-pages: "Vol. 90: 140–145"
+authors-full: "Cordero, S., Gálvez, F., Carvallo, G. O., Jordano, P. and Fontúrbel, F. E."
+publisher: "Elsevier BV"
+doi: 10.1016/j.baae.2025.12.014
+citation-url: https://doi.org/10.1016/j.baae.2025.12.014
+format:
+  html:
+    toc: true
+---
+
+<!-- full-reference:start -->
+::: {.full-reference}
+Cordero, S., Gálvez, F., Carvallo, G. O., Jordano, P. and Fontúrbel, F. E. 2025. Microhabitat structure modulates seed fate outcomes through differential effects on native and exotic rodent interactions in an endangered palm species. *Basic and Applied Ecology* 90: 140–145. <https://doi.org/10.1016/j.baae.2025.12.014>
+:::
+<!-- full-reference:end -->
+
+## Publication Details
+
+**Published in:** Basic and Applied Ecology&emsp;&emsp;**Open Access:** Yes
+
+<!-- badges:start -->
+::: {.article-badges}
+<div class="badge-dimensions"><span class="__dimensions_badge_embed__" data-doi="10.1016/j.baae.2025.12.014" data-legend="always" data-style="small_circle"></span></div>
+
+<div class="badge-altmetric"><div class="altmetric-embed" data-doi="10.1016/j.baae.2025.12.014" data-badge-type="donut" data-badge-popover="right"></div></div>
+:::
+
+<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<!-- badges:end -->
+
+## Links
+
+::: {.paper-links}
+[DOI Link](https://doi.org/10.1016/j.baae.2025.12.014){.paper-link-primary}
+[PDF](https://doi.org/10.1016/j.baae.2025.12.014)
+[OpenAlex](https://openalex.org/W7117516829)
+:::
+
+## BibTeX
+
+```bibtex
+@article{cordero2025microhabitat,
+  title     = {Microhabitat structure modulates seed fate outcomes through differential effects on native and exotic rodent interactions in an endangered palm species},
+  author    = {Cordero, Sebastián and Gálvez, Francisca and Carvallo, Gastón O. and Jordano, Pedro and Fontúrbel, Francisco E.},
+  journal   = {Basic and Applied Ecology},
+  year      = {2025},
+  volume    = {90},
+  pages     = {140--145},
+  doi       = {10.1016/j.baae.2025.12.014},
+  url       = {https://doi.org/10.1016/j.baae.2025.12.014},
+  pdf       = {https://doi.org/10.1016/j.baae.2025.12.014},
+  abbr      = {BAE},
+  selected  = {false}
+}
+```
