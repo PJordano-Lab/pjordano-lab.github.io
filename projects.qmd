@@ -266,7 +266,7 @@ dispersal systems](gallery.html "Megafauna fruits"), i.e., plant species with
 extremely large fruits supposedly dispersed by an extinct megafauna and having
 present-day interactions with surrogate frugivorous animals. The dataset, and
 additional information, for this study is available
-[here](datasets.html "Datasets").
+[here](resources.html "Datasets").
 :::
 
 --------------------------------------------------------------------------------
