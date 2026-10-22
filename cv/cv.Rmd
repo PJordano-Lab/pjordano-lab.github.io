@@ -105,7 +105,7 @@ Reviews of his work: **Science** [Thompson, J.N. 2006. *Science*, 312:372; Shea,
 
 ### Track Record   
 ORCID id code:  [0000-0003-2142-9116](https://orcid.org/0000-0003-2142-9116)    
-OpenAlex code:  [a5058629427](https://openalex.org/authors/a5058629427)
+OpenAlex code:  [A5058629427](https://openalex.org/authors/a5058629427)
 Researcher ID:  [A-5162-2008](http://www.researcherid.com/rid/A-5162-2008)    
 Google Scholar: [GScholar-P Jordano](https://scholar.google.es/citations?user=TrKYqaEAAAAJ)	     
 Research Gate:  [ResGate-P Jordano](https://www.researchgate.net/profile/Pedro_Jordano)       
