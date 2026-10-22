@@ -11,11 +11,8 @@ Built with [Quarto](https://quarto.org/), deployed via [GitHub Actions](https://
 ├── index.qmd                  # Home page (hero + recent publications)
 ├── about.qmd                  # Bio, education, positions
 ├── research.qmd               # Publications listing
-├── projects/
-│   ├── truleo.qmd             # Projects page
-│   └── orp.qmd                # Project page example
-├── teaching/
-│   └── cj-4310/               # Talks and courses
+├── projects/                  # Projects page
+├── teaching/                  # Talks and courses
 ├── research/
 │   ├── articles/              # Individual published article pages (auto-generated)
 │   └── working-papers/        # Working paper pages
