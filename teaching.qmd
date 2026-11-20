@@ -21,8 +21,8 @@ transmisión".
 
 ![](static/images/icons/bullet_pp.png)   Conference at Real Academia de Ciencias
 Exactas, Físicas y Naturales, Madrid. 14 Oct. "El oscilador Van der Pol en
-sistemas ecológicos: ciclos, movimientos, plagas y otras dinámicas".
-
+sistemas ecológicos: ciclos, movimientos, plagas y otras dinámicas". Video here (Spanish):
+[RAC-session: Oscilador de van der Pol](https://www.youtube.com/watch?v=SSIN2idx9Uw).
 --------------------------------------------------------------------------------
 
 ### Courses
